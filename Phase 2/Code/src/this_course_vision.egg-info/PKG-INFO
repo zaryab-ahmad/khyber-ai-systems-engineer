@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: this_course_vision
+Version: 0.1.0
+Summary: A professional thermal image processing library for this course students.
+Author-email: Zaryab Ahmad <zaryab@smartlab.edu>
+Project-URL: Homepage, https://github.com/zaryab/this_course_vision
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

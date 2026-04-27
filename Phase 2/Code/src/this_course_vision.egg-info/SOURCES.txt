@@ -1,0 +1,7 @@
+pyproject.toml
+src/this_course_vision/__init__.py
+src/this_course_vision/processor.py
+src/this_course_vision.egg-info/PKG-INFO
+src/this_course_vision.egg-info/SOURCES.txt
+src/this_course_vision.egg-info/dependency_links.txt
+src/this_course_vision.egg-info/top_level.txt
