@@ -1,0 +1,15 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data files (optional, if they are too large for GitHub)
+*.csv
+*.json
