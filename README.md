@@ -1,6 +1,6 @@
 # Khyber AI Systems Engineer (KASE) 🚀
 **Transforming KPK Talent into Global AI Architects.**
-
+ 
 The **Khyber AI Systems Engineer** is a comprehensive 6-phase professional roadmap designed to bridge the gap between traditional coding and 2026-standard **Agentic AI Systems**. 
 
 This course is built specifically for students in Khyber Pakhtunkhwa to transition from academic learners to **Production-Ready AI Engineers** capable of building autonomous, reliable, and scalable industrial solutions.
